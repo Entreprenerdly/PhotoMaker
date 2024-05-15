@@ -1,0 +1,3 @@
+# https://civitai.com/models/124347?modelVersionId=152309 for xl_more_art-full.safetensors
+
+# https://civitai.com/models/84040?modelVersionId=276923 for sdxlUnstableDiffusers_v11.safetensors
